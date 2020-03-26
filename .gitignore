@@ -1,6 +1,7 @@
+.idea
+telebot_commands.txt
 ### venv ###
 .Python
-.idea
 pyvenv.cfg
 .env
 .venv
