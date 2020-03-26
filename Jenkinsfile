@@ -3,7 +3,7 @@ pipeline {
 
     stages {
         stage ('Deployment') {
-            print 'Hello world'
+            print ' Hello world '
         }
     }
 }
